@@ -19,7 +19,7 @@ Badge](https://img.shields.io/badge/-gist.Ancode-ff69ba?style=flat-square&logoCo
 * Machine Learning
 
 ## Programming Languages
-<img src='https://github.com/ancode1337/ancode1337/blob/master/images/html.svg' width='30' /> <img
+<img src='https://github.com/ancode1337/ancode1337/blob/main/images/html.svg' width='30' /> <img
     src='https://github.com/ancode1337/ancode1337/blob/main/images/css.svg' width='30' /> <img
     src='https://github.com/ancode1337/ancode1337/blob/main/images/js.svg' width='30' /> <img
     src='https://github.com/ancode1337/ancode1337/blob/main/images/php.svg' width='36' /><img
