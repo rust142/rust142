@@ -25,13 +25,9 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/ancode1337/ancode1337/main/images/js.svg" />
 <img align="left" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="ReactNative" width="26px" src="https://raw.githubusercontent.com/ancode1337/ancode1337/main/images/react-native.svg" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/ancode1337/ancode1337/main/images/php.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/ancode1337/ancode1337/main/images/sql.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/ancode1337/ancode1337/main/images/git.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
