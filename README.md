@@ -20,17 +20,17 @@ Badge](https://img.shields.io/badge/-gist.Ancode-ff69ba?style=flat-square&logoCo
 
 ## Programming Languages
 <img src='https://github.com/ancode1337/ancode1337/blob/master/images/html.svg' width='30' /> <img
-    src='https://github.com/ancode1337/ancode1337/blob/master/images/css.svg' width='30' /> <img
-    src='https://github.com/ancode1337/ancode1337/blob/master/images/js.svg' width='30' /> <img
-    src='https://github.com/ancode1337/ancode1337/blob/master/images/php.svg' width='36' /><img
-    src='https://github.com/ancode1337/ancode1337/blob/master/images/python.svg' width='30' /><img
-    src='https://github.com/ancode1337/ancode1337/blob/master/images/c-original.svg' width='30' /> <img
-    src='https://github.com/ancode1337/ancode1337/blob/master/images/laravel.svg' width='30' /> <img
-    src='https://github.com/ancode1337/ancode1337/blob/master/images/bootstrap.svg' width='33' /> <img
-    src='https://github.com/ancode1337/ancode1337/blob/master/images/tailwind.svg' width='30' height='30' /> <img
-    src='https://github.com/ancode1337/ancode1337/blob/master/images/django.svg' width='38' /> <img
+    src='https://github.com/ancode1337/ancode1337/blob/main/images/css.svg' width='30' /> <img
+    src='https://github.com/ancode1337/ancode1337/blob/main/images/js.svg' width='30' /> <img
+    src='https://github.com/ancode1337/ancode1337/blob/main/images/php.svg' width='36' /><img
+    src='https://github.com/ancode1337/ancode1337/blob/main/images/python.svg' width='30' /><img
+    src='https://github.com/ancode1337/ancode1337/blob/main/images/c-original.svg' width='30' /> <img
+    src='https://github.com/ancode1337/ancode1337/blob/main/images/laravel.svg' width='30' /> <img
+    src='https://github.com/ancode1337/ancode1337/blob/main/images/bootstrap.svg' width='33' /> <img
+    src='https://github.com/ancode1337/ancode1337/blob/main/images/tailwind.svg' width='30' height='30' /> <img
+    src='https://github.com/ancode1337/ancode1337/blob/main/images/django.svg' width='38' /> <img
     src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.RQ8rlvfppN1r1CA-mufW0QHaHa%26pid%3DApi&f=1'
-    width='30' /> <img src='https://github.com/ancode1337/ancode1337/blob/master/images/sql.svg' width='30' />
+    width='30' /> <img src='https://github.com/ancode1337/ancode1337/blob/main/images/sql.svg' width='30' />
 
 ## :coffee: Support me
 https://www.buymeacoffee.com/ancode1337?new=1
