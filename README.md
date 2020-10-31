@@ -45,9 +45,9 @@
 
 
 
-[twitter]: https://twitter.com/gunawan10x
+[twitter]: https://twitter.com/#
 [website]: https://ancode.github.io/
-[instagram]: https://instagram.com/gunone__
+[instagram]: https://instagram.com/#
 
 
 
