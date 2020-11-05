@@ -49,7 +49,7 @@
 
 
 ## :coffee: Support me
-https://www.buymeacoffee.com/ancode1337?new=1
+https://www.buymeacoffee.com/ancode
 
 </br>
 
