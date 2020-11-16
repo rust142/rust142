@@ -1,5 +1,5 @@
 <!--
-**N1ght420/N1ght420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A5W4JA1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/N1ght420/count.svg" />
+  <img src="https://profile-counter.glitch.me/A5W4JA1337/count.svg" />
 </p>
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
 
-### Hi there, my name is Rakka Pratama 👋
+### Hi there, my name is Agung Maulana 👋
 ### I'm a Computer Science and Engineering Student
 
 - 🔭 I’m currently working on Web development technologies
@@ -45,10 +45,6 @@ Here are some ideas to get you started:
 </details>
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3k5y2ces5jd1d2w0g08kct5ri&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=3k5y2ces5jd1d2w0g08kct5ri&redirect=true)
-
 <details>
   <summary><b>My Github Stats</b></summary>
   <img alt="N1ght420's github stats" src="https://github-readme-stats.vercel.app/api?username=N1ght420&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24"/>
@@ -59,7 +55,7 @@ Here are some ideas to get you started:
 <details>
   <summary><b>Pinned Repositories</b></summary>
   <p align="center">
-  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=ancode1337&repo=gist-notes&hide_border=true"/>
+  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=A5W4JA1337&repo=gist-notes&hide_border=true"/>
   </p>
 </details>
 
@@ -67,10 +63,10 @@ Here are some ideas to get you started:
   <summary><b>Connect with me</b></summary>
   <p align="center">
     <i>Let's connect and chat! We are about to Change the World.</i><br><br>
-    <a href="https://twitter.com/n1ghtpe0ple420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/rakka-pratama-74612718b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rakka-pratama-74612718b" height="30" width="40" /></a>
-    <a href="https://fb.com/n1ghtpe0ple420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
-    <a href="https://instagram.com/putra.go.id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="putra.go.id" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/ucz44r-0tngtx0bjmmejeb4q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucz44r-0tngtx0bjmmejeb4q" height="30" width="40" /></a>
+    <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="#" height="30" width="40" /></a>
+    <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="#" height="30" width="40" /></a>
+    <a href="https://fb.com/n1ghtpe0ple420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="#" height="30" width="40" /></a>
+    <a href="https://instagram.com/putra.go.id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__agungid" height="30" width="40" /></a>
+    <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="#" height="30" width="40" /></a>
   </p>
 </details>
