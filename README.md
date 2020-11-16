@@ -18,6 +18,9 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/A5W4JA1337/count.svg" />
 </p>
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
+
 ### Hi there, my name is Agung Maulana 👋
 ### I'm a Computer Science and Engineering Student
 
@@ -40,7 +43,6 @@ Here are some ideas to get you started:
     <a href="https://www.python.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   </p>
 </details>
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 <details>
   <summary><b>My Github Stats</b></summary>
