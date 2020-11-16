@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 </p>
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
 
 ### Hi there, my name is Agung Maulana 👋
 ### I'm a Computer Science and Engineering Student
@@ -59,3 +58,14 @@ Here are some ideas to get you started:
   </p>
 </details>
 
+<details>
+  <summary><b>Connect with me</b></summary>
+  <p align="center">
+    <i>Let's connect and chat! We are about to Change the World.</i><br><br>
+    <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="#" height="30" width="40" /></a>
+    <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="#" height="30" width="40" /></a>
+    <a href="https://fb.com/n1ghtpe0ple420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="#" height="30" width="40" /></a>
+    <a href="https://instagram.com/putra.go.id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__agungid" height="30" width="40" /></a>
+    <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="#" height="30" width="40" /></a>
+  </p>
+</details>
