@@ -18,9 +18,6 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/A5W4JA1337/count.svg" />
 </p>
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
-
 ### Hi there, my name is Agung Maulana 👋
 ### I'm a Computer Science and Engineering Student
 
