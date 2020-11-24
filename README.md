@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 <br/>
 
-<h1 align="center"> Hi there, my name is Agung Maulana 👋 </h1>
+<h1> Hi there, my name is Agung Maulana 👋 </h1>
 
 <h2> I'm a Computer Science and Engineering Student </h2>
 
