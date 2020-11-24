@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hi there, my name is Agung Maulana 👋 </h1>
 
-<h2 align="center"> I'm a Computer Science and Engineering Student </h2>
+<h2> I'm a Computer Science and Engineering Student </h2>
 
 - 🔭 I’m currently working on Web development technologies
 - 🌱 I’m currently learning Laravel and ReactJS
