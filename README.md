@@ -25,7 +25,7 @@
       <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/kurt69-dev/kurt69-dev/4d395b4c821a71cfeb7394889d9154ca1a78a20b/images/html.svg" alt="html5" width="40" height="40" /></a>
       <a href="https://www.w3.org/css/" target="_blank"><img src="https://raw.githubusercontent.com/kurt69-dev/kurt69-dev/4d395b4c821a71cfeb7394889d9154ca1a78a20b/images/css.svg" alt="css" width="40" height="40" /></a>
       <a href="https://www.w3.org/javascript/" target="_blank"><img src="https://raw.githubusercontent.com/kurt69-dev/kurt69-dev/main/images/js.svg" alt="js" width="40" height="40" /></a>
-      <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/kurt69-dev/kurt69-dev/4d395b4c821a71cfeb7394889d9154ca1a78a20b/images/php.svg" alt="php" width="40" height="40" /></a>
+      <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/kurt69-dev/kurt69-dev/main/images/php.svg" alt="php" width="40" height="40" /></a>
       <a href="https://www.python.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
       <a href="https://laravel.com/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /></a>
       <a href="https://www.vuejs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40" /></a>
