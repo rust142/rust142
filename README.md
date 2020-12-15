@@ -1,6 +1,7 @@
 <div>
   
   **kurt69-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
   Here are some ideas to get you started:
   - 🔭 I’m currently working on ...
   - 🌱 I’m currently learning ...
@@ -15,9 +16,13 @@
     Visitor count<br />
     <img src="https://profile-counter.glitch.me/kurt69-dev/count.svg" />
   </p>
+  
   <br />
+  
   <h1> Hi there, my name is Agung Maulana 👋 </h1>
+  
   <h2> I'm a Computer Science and Engineering Student </h2>
+  
   - 🔭 I’m currently working on Web development technologies
   - 🌱 I’m currently learning Laravel and ReactJS
   - 👯 I’m looking to collaborate on your Open Source Project
