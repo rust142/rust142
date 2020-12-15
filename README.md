@@ -1,6 +1,6 @@
 <div>
   
-  <!--**kurt69-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+  <!-- **kurt69-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
   
   <p align="center"> 
     Visitor count<br />
@@ -16,7 +16,7 @@
   - 🔭 I’m currently working on Web development technologies
   - 🌱 I’m currently learning Laravel and ReactJS
   - 👯 I’m looking to collaborate on your Open Source Project
-  - ⚡ Fun fact: It's not healt=""hy, but i love chocolate so much
+  - ⚡ Fun fact: It's not healt, but i love chocolate so much
   <details>
     <summary><b>Language and Skills</b></summary>
     <p align="center">
