@@ -41,7 +41,7 @@
   
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurt69-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    
-   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kurt69-dev)](https://github.com/anuraghazra/github-readme-stats)
+   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kurt69)](https://github.com/anuraghazra/github-readme-stats)
      
   </details>
   <details>
