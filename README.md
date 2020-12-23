@@ -43,7 +43,7 @@
   <details>
     <summary><b>Pinned Repositories</b></summary>
     <p align="center">
-      <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=kurt69-dev&repo=gist-notes&hide_border=true" />
+      <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=kurt69-dev&repo=kurt69-dev&hide_border=true" />
     </p>
   </details>
   <details>
