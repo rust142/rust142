@@ -39,7 +39,7 @@
     <img alt="kurt69-dev's github stats" src="https://github-readme-stats.vercel.app/api?username=kurt69-dev&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24" />
     <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurt69-dev&layout=compact)]
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurt69-dev&layout=compact)
    
    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kurt69)](https://wakatime.com/@kurt69/projects/ldqfwrpymy?start=2020-12-18&end=2020-12-24)
      
