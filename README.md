@@ -2,6 +2,7 @@
   
   <!-- **kurt69-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
   
+  <p align="center"><b>Visitor Counter</b></p>
   <p align="center">
     <img src="https://profile-counter.glitch.me/kurt69-dev/count.svg" />
   </p>
