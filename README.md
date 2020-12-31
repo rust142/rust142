@@ -12,9 +12,7 @@
   
 I Fullstack JavaScript. You can also find me on twitter 🌹
   
-  <details>
-    <summary><b>Language and Skills</b></summary>
-    <p align="center">
+  <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="csharp" style="vertical-align:top; margin:4px">
@@ -31,7 +29,6 @@ I Fullstack JavaScript. You can also find me on twitter 🌹
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
-  </details>
   <details>
     <summary><b>My Github Stats</b></summary>
     <img alt="kurt69-dev's github stats" src="https://github-readme-stats.vercel.app/api?username=kurt69-dev&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24" />
