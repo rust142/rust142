@@ -7,7 +7,9 @@
   </p>
   
   <br />
-  ![trophy](https://github-profile-trophy.vercel.app/?username=kurt69-dev&rank=SSS)
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=kurt69-dev&rank=SSS)]
+  
   <details>
     <summary><b>Language and Skills</b></summary>
     <p align="center">
