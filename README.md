@@ -40,16 +40,8 @@ I Fullstack JavaScript. You can also find me on twitter 🌹
    
    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kurt69)](https://wakatime.com/@kurt69/projects/ldqfwrpymy?start=2020-12-18&end=2020-12-24)
    </p>
-     
-  <details>
-    <summary><b>Pinned Repositories</b></summary>
     <p align="center">
-      <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=kurt69-dev&repo=kurt69-dev&hide_border=true" />
-    </p>
-  </details>
-  <details>
-    <summary><b>Connect with me</b></summary>
-    <p align="center">
+      <b>Connect with me</b>
       <i>Let's connect and chat! We are about to Change the World.</i><br /><br />
       <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="#" height="30" width="40" /></a>
       <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="#" height="30" width="40" /></a>
@@ -57,5 +49,5 @@ I Fullstack JavaScript. You can also find me on twitter 🌹
       <a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__agungid" height="30" width="40" /></a>
       <a href="https://codepen.io/kurt69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="kurt1337" height="30" width="40" /></a>
     </p>
-  </details>
+    
 </div>
