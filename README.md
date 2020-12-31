@@ -11,7 +11,7 @@
   Hi there 👋
   
   I Fullstack Developer. You can also find me on twitter 🌹
-  
+  <br/><br/>
   <p align="center"> 
   <b>SKILLS & LANGUAGE</b>
   <br/><br/>
@@ -32,5 +32,15 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px"> 
 </p>
   <br/><br/>
-  <img align="center" alt="kurt69-dev's github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=kurt69" />   
+  <img align="center" alt="kurt69-dev's github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=kurt69" />
+  <br/><br/>
+  <p align="center">
+      <b>Connect with me</b>
+      <i>Let's connect and chat! We are about to Change the World.</i><br /><br />
+      <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="#" height="30" width="40" /></a>
+      <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="#" height="30" width="40" /></a>
+      <a href="https://fb.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="#" height="30" width="40" /></a>
+      <a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__agungid" height="30" width="40" /></a>
+      <a href="https://codepen.io/kurt69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="kurt1337" height="30" width="40" /></a>
+    </p>
 </div>
