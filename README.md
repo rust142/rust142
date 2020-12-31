@@ -31,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"> 
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px"> 
 </p>
-  <br/><br/>
+  <br/>
   <img align="center" alt="kurt69-dev's github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=kurt69" />
   <br/><br/>
   <p align="center">
