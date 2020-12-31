@@ -8,8 +8,6 @@
   
   <br />
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=kurt69-dev)
-  
   <details>
     <summary><b>Language and Skills</b></summary>
     <p align="center">
@@ -33,6 +31,8 @@
     <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
   
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurt69-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   
+   ![trophy](https://github-profile-trophy.vercel.app/?username=kurt69-dev)
    
    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kurt69)](https://wakatime.com/@kurt69/projects/ldqfwrpymy?start=2020-12-18&end=2020-12-24)
      
