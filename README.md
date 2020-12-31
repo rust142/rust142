@@ -12,7 +12,9 @@
   
 I Fullstack JavaScript. You can also find me on twitter 🌹
   
-  <p align="center">
+  <p align="center"> 
+  <b>SKILLS & LANGUAGE</b>
+  <br/><br/>
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="csharp" style="vertical-align:top; margin:4px">
