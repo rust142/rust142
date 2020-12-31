@@ -8,6 +8,10 @@
   
   <br />
   
+  Hi there 👋
+  
+I Fullstack JavaScript. You can also find me on twitter 🌹
+  
   <details>
     <summary><b>Language and Skills</b></summary>
     <p align="center">
