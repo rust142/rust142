@@ -31,15 +31,14 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"> 
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px"> 
 </p>
-  <br/><br/><br/><br/>
+  <br/><br/><br/>
     <p align="center"> 
     <b>SKILLS & LANGUAGE</b>
   <br/><br/>
-    <img align="left" alt="kurt69-dev's github stats" src="https://github-readme-stats.vercel.app/api?username=kurt69-dev&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24" />
+    <img align="left" alt="kurt69-dev's github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=kurt69" />
     <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
   <br/><br/>
-     
-   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kurt69)](https://wakatime.com/@kurt69/projects/ldqfwrpymy?start=2020-12-18&end=2020-12-24)
+   
    </p>
     <p align="center">
       <b>Connect with me</b>
