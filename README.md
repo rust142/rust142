@@ -33,7 +33,7 @@
 </p>
   <br/><br/><br/>
    <p align="center"> 
-    <b>SKILLS & LANGUAGE</b>
+    <b>Wakatime</b>
   <br/><br/>
     <img align="left" alt="kurt69-dev's github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=kurt69" />
     <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
