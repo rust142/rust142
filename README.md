@@ -12,7 +12,6 @@
   
   I Fullstack Developer. You can also find me on twitter 🌹
   
-  <br/><br/>
   <p align="center"> 
   <b>SKILLS & LANGUAGE</b>
   <br/><br/>
