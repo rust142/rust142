@@ -33,7 +33,7 @@
 </p>
   <br/>
   <img align="center" alt="kurt69-dev's github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=kurt69" />
-  <br/><br/>
+  <br/><br/><br/>
   <p align="center">
       <b>Connect with me</b>
       <i>Let's connect and chat! We are about to Change the World.</i><br /><br />
