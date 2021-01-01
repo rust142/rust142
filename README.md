@@ -33,7 +33,7 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px"> 
 </p>
   <br/>
-  <figure><img src="https://wakatime.com/share/@kurt69/a80e0916-7c05-4718-a4f2-d077781d6f12.svg"></img></figure>
+  <figure><img src="https://wakatime.com/share/@kurt69/ffb47cac-180f-45db-8e9b-9e8986474b63.svg" width="800"/></figure>
   <br/><br/><br/>
   <p align="center">
       <b>Connect with me</b>
