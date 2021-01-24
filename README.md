@@ -13,7 +13,9 @@
   
   <span>I'm just a Dreamer, and I love technology</span> <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" alt="koceng" width="40" />
   
-  if I am useful to you, make sure you click this button 
+  <a href="#badge-modal" rel="modal:open">
+      <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
+  </a>
   <br/><br/>
   <p align="center"> 
   <b>SKILLS & LANGUAGE</b>
