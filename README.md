@@ -6,15 +6,16 @@
  
   <span>I'm just a Dreamer, and I love technology</span> <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" alt="koceng" width="40" />
   
-  <a href="https://saythanks.io/to/hirarkyid%40gmail.com" rel="modal:open">
-      <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
-  </a>
   [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
   [![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
   [![Gists Badge](https://badges.pufler.dev/gists/puf17640)](https://badges.pufler.dev)
   [![Created Badge](https://badges.pufler.dev/created/puf17640/git-badges)](https://badges.pufler.dev)
   [![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)
   [![Gists Badge](https://badges.pufler.dev/gists/puf17640)](https://badges.pufler.dev)
+  
+  <a href="https://saythanks.io/to/hirarkyid%40gmail.com" rel="modal:open">
+      <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
+  </a>
   
   <br/><br/>
   <p align="center"> 
