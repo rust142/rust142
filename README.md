@@ -16,6 +16,14 @@
   <a href="https://saythanks.io/to/hirarkyid%40gmail.com" rel="modal:open">
       <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
   </a>
+  
+  [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+  [![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
+  [![Gists Badge](https://badges.pufler.dev/gists/puf17640)](https://badges.pufler.dev)
+  [![Created Badge](https://badges.pufler.dev/created/puf17640/git-badges)](https://badges.pufler.dev)
+  [![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)
+  [![Gists Badge](https://badges.pufler.dev/gists/puf17640)](https://badges.pufler.dev)
+  
   <br/><br/>
   <p align="center"> 
   <b>SKILLS & LANGUAGE</b>
