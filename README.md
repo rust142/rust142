@@ -38,7 +38,6 @@
     <br/>
     <figure><img src="https://wakatime.com/share/@kurt69/ffb47cac-180f-45db-8e9b-9e8986474b63.svg" width="780"/></figure>
   </details>
-  <br/><br/><br/>
   <details>
     <summary><b>Pinned Repositories</b></summary>
     <p align="center">
