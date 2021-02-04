@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
   </a>
   
-  <br/><br/>
+  <br/>
   <details>
   <summary><b>Skills & Technology</b></summary>
     <p align="center">
