@@ -37,7 +37,7 @@
     <br/>
   <div align="center">
     
-  [![kurt69's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kurt69&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![kurt69's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kurt69&layout=compact)]()
   </div>
   </details>
   <details>
