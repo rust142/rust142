@@ -40,7 +40,7 @@
   <details>
     <summary><b>Pinned Repositories</b></summary>
     <p align="center">
-    <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=kurtrdev&repo=react-template-project/>
+    <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=kurtrdev&repo=react-template-project"/>
     </p>
   </details>
   <p align="center">
