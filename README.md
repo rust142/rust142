@@ -12,9 +12,8 @@
   
   <br/><br/>
   <details>
-  <summary><b>Technology Skills</b></summary>
-    <p align="center"> 
-    <b>SKILLS & LANGUAGES</b>
+  <summary><b>Skills & Technology</b></summary>
+    <p align="center">
     <br/><br/>
     <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
