@@ -41,7 +41,7 @@
   <details>
     <summary><b>Pinned Repositories</b></summary>
     <p align="center">
-    <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=kurtrdev&repo=api-Xpress&hide_border=true&theme=dracula"/>
+    <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=kurtrdev&repo=univSearch&hide_border=true&theme=dracula"/>
     </p>
   </details>
   <p align="center">
