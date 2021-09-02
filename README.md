@@ -1,5 +1,4 @@
 <div>
-  https://www.linuxuprising.com/2019/04/how-to-change-username-on-ubuntu-debian.html
   
   <!-- **kurt69-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
   
