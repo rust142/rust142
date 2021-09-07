@@ -30,7 +30,7 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px"> 
     </p>
   
-  ![Snake animation](https://github.com/rafaballerini/amdev142/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/amdev142/amdev142/blob/output/github-contribution-grid-snake.svg)
   
   <p align="center">
       <b>Connect with me</b>
