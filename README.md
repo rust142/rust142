@@ -23,6 +23,8 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/ionic.svg" alt="ionic" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/dart.svg" alt="dart" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
