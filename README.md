@@ -13,9 +13,7 @@
       <b>Connect with me</b>
       <i>Let's connect and chat! We are about to Change the World.</i><br /><br />
       <a href="mailto:amdev142@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="#" height="30" width="40" /></a>
-      <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="#" height="30" width="40" /></a>
-      <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="#" height="30" width="40" /></a>
-      <a href="https://fb.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="#" height="30" width="40" /></a>
-      <a href="https://www.instagram.com/amdev142" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__agungid" height="30" width="40" /></a>
+      <a href="https://twitter.com/amdev142" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="#" height="30" width="40" /></a>
+      <a href="https://www.linkedin.com/in/agung-maulana-1b63a1237/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="#" height="30" width="40" /></a>
       <a href="https://codepen.io/amdev142" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen" height="30" width="40" /></a>
     </p>
