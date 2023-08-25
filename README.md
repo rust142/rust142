@@ -7,7 +7,7 @@
   
   Learning programming since 2018
   
-  1 Year work experience
+  2 Year work experience
   
   <p align="center">
       <b>Connect with me</b>
