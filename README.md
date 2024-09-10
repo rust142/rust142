@@ -14,7 +14,7 @@
   - CSS/HTML
   - Tailwind
   - Astro, React, Svelte
-  - Adonis (Nodejs Framework)
+  - Adonis, Express (Nodejs Framework)
   - MySQL, SQL Server
 
   And these tools help me:
