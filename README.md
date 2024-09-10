@@ -19,7 +19,7 @@
 
   And these tools help me:
   
-  - VS Code and Sublime Text as text editors
+  - VS Code as text editors
   - Windows 11 as the operating system
   - GitHub for hosting code
   - Vercel for hosting apps
