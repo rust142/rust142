@@ -1,4 +1,4 @@
-<a href='https://s.id/standwithpalestine'>
+<a href='https://ummaty.org/donate/'>
   <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
 </a>
 <br/><br/>
