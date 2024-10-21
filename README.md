@@ -30,9 +30,11 @@ These programming languages are the ones I use most:
 - JavaScript/TypeScript
 - CSS/HTML
 - Tailwind
-- Astro, React, Svelte
+- Astro, React, Svelte (Javascript Framework)
+- Flutter (Dart Framework)
 - Adonis, Express (Nodejs Framework)
-- MySQL, SQL Server
+- MySQL, Mongodb
+- Docker
 
 And these tools help me:
 
