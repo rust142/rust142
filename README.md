@@ -1,4 +1,4 @@
-<a href='https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md' target='_blank'>
+<a href='https://s.id/standwithpalestine'>
   <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
 </a>
 <br/><br/>
@@ -10,7 +10,7 @@
 <!--   <a href="https://pddikti.kemdikbud.go.id/data_mahasiswa/QUUyNzdEMjktNDk0Ri00RTlDLUE4NzgtNkUwRDBDRjIxOUNB"><img height="28" src="https://i.postimg.cc/YSB2c3DG/1619598282440.png"></a> -->
 </p>
 <p align="center">
-  <a href="https://s.id/standwithpalestine" target="_blank"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="StandWithPalestine badge"></a>
+  <a href="https://s.id/standwithpalestine"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="StandWithPalestine badge"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rust142.rust142" />
   <a href="https://github.com/rust142"><img src="https://img.shields.io/github/followers/rust142?label=followers&style=social"/></a>
   <a href="https://user-badge.committers.top/indonesia/rust142"><img src="https://user-badge.committers.top/indonesia/rust142.svg" alt="committers.top badge"></a>
