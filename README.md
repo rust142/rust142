@@ -2,18 +2,16 @@
   <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
 </a>
 <br/><br/>
-<!-- <p align=center>
-  <a href="https://facebook.com/rust">
-    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
-  </a>&nbsp;
-  <a href="https://twitter.com/tfkhdyt"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg"></a>&nbsp;
-  <a href="https://www.linkedin.com/mwlite/in/taufik-hidayat-6793aa200"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
-  <a href="https://instagram.com/_tfkhdyt_"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
-  <a href="https://pddikti.kemdikbud.go.id/data_mahasiswa/QUUyNzdEMjktNDk0Ri00RTlDLUE4NzgtNkUwRDBDRjIxOUNB"><img height="28" src="https://i.postimg.cc/YSB2c3DG/1619598282440.png"></a>
-</p> -->
+<p align=center>
+  <a href="https://www.linkedin.com/mwlite/in/agung-maulana-1b63a1237"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
+  <a href="https://facebook.com/rust142"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/50px-2023_Facebook_icon.svg.png"></a>&nbsp;
+  <a href="https://instagram.com/__rustdev"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
+  <a href="https://twitter.com/__rustdev"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/150px-X_logo_2023.svg.png"></a>&nbsp;
+<!--   <a href="https://pddikti.kemdikbud.go.id/data_mahasiswa/QUUyNzdEMjktNDk0Ri00RTlDLUE4NzgtNkUwRDBDRjIxOUNB"><img height="28" src="https://i.postimg.cc/YSB2c3DG/1619598282440.png"></a> -->
+</p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rust142.rust142" />
-  <a href="https://github.com/rust142"><img src="https://img.shields.io/github/followers/tfkhdyt?label=followers&style=social"/></a>
+  <a href="https://github.com/rust142"><img src="https://img.shields.io/github/followers/rust142?label=followers&style=social"/></a>
   <a href="https://user-badge.committers.top/indonesia/rust142"><img src="https://user-badge.committers.top/indonesia/rust142.svg" alt="committers.top badge"></a>
   <!-- <a href='https://stackshare.io/tfkhdyt/mn3'> -->
   <!--   <img src='http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat' alt='StackShare' /> -->
@@ -50,14 +48,5 @@ And these tools help me:
 - Adonis, Astro, React, Svelte for developing apps
 - Postman for api 
 
-<p align="center">
-  <b>Connect with me</b>
-  <i>Let's connect and chat! We are about to Change the World.</i><br /><br />
-  <a href="mailto:amdev142@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="#" height="30" width="40" /></a>
-  <a href="https://twitter.com/rust142" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="#" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/agung-maulana-1b63a1237/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="#" height="30" width="40" /></a>
-</p>
-
-### Stats 📋
-
-<p align="center"><img src="./github-metrics.svg" alt="Metrics"></p>
+### Metrics
+![Metrics](https://metrics.lecoq.io/rust142?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FJakarta)
