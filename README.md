@@ -42,14 +42,14 @@ And these tools help me:
 
 - VS Code as text editors
 - Windows 11 as the operating system
-- GitHub for hosting code
-- Vercel for hosting apps
+- GitHub, Gitlab for hosting code
+- Vercel, Netlify for hosting apps
 - Notepad for taking notes
-- Trello for Agile Scrum
+- Trello for agile scrum
 - Xmind for mindmap
 - Draw.io form diagram
 - Figma for design
-- Adonis, Astro, React, Svelte for developing apps
+- Adonis, Astro, Next.js, React, Svelte.kit, Svelte for developing apps
 - Postman for api
 - Laragon for database connections
 - Docker, PM2 for production
