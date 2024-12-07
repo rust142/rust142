@@ -32,7 +32,7 @@ These programming languages are the ones I use most:
 - CSS/HTML
 - Tailwind
 - Astro, React, Svelte (Javascript Framework)
-- Next.js, Svelte.kit (React and Svelte Framework)
+- Next.js, Svelte.kit
 - Flutter (Dart Framework)
 - Adonis, Express (Nodejs Framework)
 - MySQL, Mongodb
