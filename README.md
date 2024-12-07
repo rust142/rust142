@@ -50,4 +50,6 @@ And these tools help me:
 - Draw.io form diagram
 - Figma for design
 - Adonis, Astro, React, Svelte for developing apps
-- Postman for api 
+- Postman for api
+- Laragon for database connections
+- Docker, PM2 for production
