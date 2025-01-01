@@ -28,14 +28,15 @@ Learning programming since 2018
 What tools/programming languages do I use?
 These programming languages are the ones I use most:
 
-- JavaScript/TypeScript
-- CSS/HTML
-- Tailwind
-- Astro, React, Svelte (Javascript Framework)
-- Next.js, Svelte.kit
+- JS/TS, Dart, Python, Zig, Golang (Programming Language)
+- Node, Bun (Runtime Javascript Server)
+- HTML/Markdown (Markup Languange)
+- CSS (Styling Language)
+- Tailwind (CSS Utilities Framework)
+- Astro, Next.js, Svelte.kit (Javascript Framework)
 - Flutter (Dart Framework)
 - Adonis, Express (Nodejs Framework)
-- MySQL, Mongodb
+- MySQL, MSSQL, Mongodb
 - Docker
 
 And these tools help me:
