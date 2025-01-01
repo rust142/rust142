@@ -26,7 +26,7 @@ Learning programming since 2018
 4 Year work experience
 
 What tools/programming languages do I use?
-These programming languages are the ones I use most:
+These programming languages are the ones I use:
 
 - JS/TS, Dart, Python, Zig, Golang (Programming Language)
 - Node, Bun (Runtime Javascript Server)
