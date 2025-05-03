@@ -25,7 +25,7 @@
 These programming languages are the ones I use:
 
 - JS/TS, Dart, Python, Zig, Golang (Programming Language)
-- Node, Bun (Runtime Javascript Server)
+- Node, Bun (Javascript Runtime Server)
 - HTML/Markdown (Markup Languange)
 - CSS (Styling Language)
 - Tailwind, Shadcn (CSS Framework)
