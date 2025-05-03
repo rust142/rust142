@@ -66,7 +66,9 @@ And these tools help me:
   <a href="#"><img src="https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/></a>
 </p>
-
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rust142&theme=transparent" alt="GitHub Streak" /></a>
+</p>
 <p align="center">
   <a href="#"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31sfzzm4occffkvjsjoghcrjc7oi&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31sfzzm4occffkvjsjoghcrjc7oi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true"/></a>
 </p>
