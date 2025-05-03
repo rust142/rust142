@@ -5,7 +5,7 @@
 <br/><br/>
 <p align="center">
   <a href="https://s.id/standwithpalestine"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="StandWithPalestine badge"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rust142.rust142" />
+  <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=rust142.rust142" /></a>
   <a href="https://github.com/rust142"><img src="https://img.shields.io/github/followers/rust142?label=followers&style=social"/></a>
   <a href="https://user-badge.committers.top/indonesia/rust142"><img src="https://user-badge.committers.top/indonesia/rust142.svg" alt="committers.top badge"></a>
 </p>
@@ -70,5 +70,5 @@ And these tools help me:
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sfzzm4occffkvjsjoghcrjc7oi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/></a>
+  <a href="#"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31sfzzm4occffkvjsjoghcrjc7oi&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31sfzzm4occffkvjsjoghcrjc7oi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true"/></a>
 </p>
