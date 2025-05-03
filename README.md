@@ -2,21 +2,28 @@
   <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
 </a>
 <br/><br/>
-<p align=center>
-  <a href="https://www.linkedin.com/mwlite/in/agung-maulana-1b63a1237"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
-  <a href="https://facebook.com/rust142"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/50px-2023_Facebook_icon.svg.png"></a>&nbsp;
-  <a href="https://instagram.com/__rustdev"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
-  <a href="https://twitter.com/__rustdev"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/150px-X_logo_2023.svg.png"></a>&nbsp;
-<!--   <a href="https://pddikti.kemdikbud.go.id/data_mahasiswa/QUUyNzdEMjktNDk0Ri00RTlDLUE4NzgtNkUwRDBDRjIxOUNB"><img height="28" src="https://i.postimg.cc/YSB2c3DG/1619598282440.png"></a> -->
-</p>
 <p align="center">
   <a href="https://s.id/standwithpalestine"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="StandWithPalestine badge"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rust142.rust142" />
   <a href="https://github.com/rust142"><img src="https://img.shields.io/github/followers/rust142?label=followers&style=social"/></a>
-  <a href="https://user-badge.committers.top/indonesia/rust142"><img src="https://user-badge.committers.top/indonesia/rust142.svg" alt="committers.top badge"></a>
+  <a href="https://gitlab.com/rust142"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"/></a>
+<!--   <a href="https://user-badge.committers.top/indonesia/rust142"><img src="https://user-badge.committers.top/indonesia/rust142.svg" alt="committers.top badge"></a> -->
   <!-- <a href='https://stackshare.io/tfkhdyt/mn3'> -->
   <!--   <img src='http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat' alt='StackShare' /> -->
   <!-- </a> -->
+</p>
+<p align=center>
+  <a href="https://www.linkedin.com/mwlite/in/agung-maulana-1b63a1237"><img height="20" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://facebook.com/rust142"><img height="20" src="https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white"></a>
+  <a href="https://instagram.com/__rustdev"><img height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+  <a href="https://twitter.com/__rustdev"><img height="20" src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"></a>
+  <a href="https://t.me/agung_maulanaid"><img height="20" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"></a>
+</p>
+<p align="center">
+  <a href="https://roadmap.sh/u/rust142"><img src="https://img.shields.io/badge/Roadmap-000000?style=flat&logo=roadmap.sh&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=Codewars&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/></a>
 </p>
 
 Hey! I'm Agung Maulana - a student from Indonesia who is interested in computers.
@@ -54,5 +61,7 @@ And these tools help me:
 - Postman for api
 - Laragon for database connections
 - Docker, PM2 for production
+
+## Activity
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31sfzzm4occffkvjsjoghcrjc7oi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
