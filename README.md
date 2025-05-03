@@ -19,7 +19,6 @@ Learning programming since 2018
 🧍🏻‍♂️ **Age:** 23 \
 🌟 **Work Experience:** 4 \
 🎓 **Education:** Bachelor's in Computer Science \
-💻 **OS:** Windows \
 🎮 **Hobbies:** Gaming, Coding, Reading \
 🌐 **Languages:** Indonesian, Javanese, English
 
@@ -31,7 +30,7 @@ These programming languages are the ones I use:
 - Node, Bun (Runtime Javascript Server)
 - HTML/Markdown (Markup Languange)
 - CSS (Styling Language)
-- Tailwind (CSS Utilities Framework)
+- Tailwind, Shadcn (CSS Framework)
 - Astro, Next.js, Svelte.kit (Javascript Framework)
 - Flutter (Dart Framework)
 - Adonis, Express (Nodejs Framework)
@@ -70,4 +69,6 @@ And these tools help me:
   <a href="#"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/></a>
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31sfzzm4occffkvjsjoghcrjc7oi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="#"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sfzzm4occffkvjsjoghcrjc7oi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/></a>
+</p>
