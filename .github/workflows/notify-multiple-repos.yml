@@ -1,0 +1,113 @@
+name: Notify Multiple Repo Releases
+
+on:
+  schedule:
+    - cron: '*/10 * * * *' # cek tiap 10 menit
+  workflow_dispatch:
+
+jobs:
+  check_releases:
+    runs-on: ubuntu-latest
+
+    env:
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+    steps:
+      - name: Checkout repo (untuk menyimpan cache)
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Restore last releases cache
+        id: cache
+        uses: actions/cache@v4
+        with:
+          path: .github/cache/last-releases.json
+          key: last-releases-cache-${{ github.run_id }}
+          restore-keys: |
+            last-releases-cache-
+
+      - name: Check releases & notify
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const fetch = require('node-fetch');
+
+            const repos = [
+              'adonisjs/lucid',
+              'adonisjs/presets',
+              'adonisjs/auth',
+              'adonisjs/ace',
+              'adonisjs/health',
+              'adonisjs/core',
+              'adonisjs/create-adonisjs',
+              'adonisjs/cache',
+              'adonisjs/lock',
+              'adonisjs/redis',
+              'adonisjs/mail',
+              'adonisjs/session',
+              'adonisjs/limiter',
+              'adonisjs/transmit',
+              'adonisjs/i18n',
+              'adonisjs/drive',
+              'adonisjs/eslint-config',
+              'adonisjs/eslint-plugin-adonisjs',
+              'adonisjs/tsconfig',
+              'adonisjs/prettier-config',
+              'adonisjs/assembler',
+              'adonisjs/hash',
+              'japa/create-japa',
+              'adonisjs/inertia',
+              'japa/snapshot',
+              'adonisjs/http-server',
+              'adonisjs/bouncer',
+              'adonisjs/logger',
+              'japa/api-client',
+              'adonisjs/fold',
+              'vinejs/compiler',
+              'vinejs/vine',
+              'adonisjs/vite'
+            ];
+
+            const filePath = '.github/cache/last-releases.json';
+            let lastReleases = {};
+
+            if (fs.existsSync(filePath)) {
+              try {
+                lastReleases = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+              } catch {
+                lastReleases = {};
+              }
+            }
+
+            for (const repo of repos) {
+              const [owner, repoName] = repo.split('/');
+              try {
+                const latestRelease = await github.rest.repos.getLatestRelease({ owner, repo: repoName });
+                const latestTag = latestRelease.data.tag_name;
+                const lastTag = lastReleases[repo];
+
+                if (latestTag !== lastTag) {
+                  const message = `📢 Repo **${repo}** baru saja rilis versi **${latestTag}**!\nhttps://github.com/${repo}/releases/tag/${latestTag}`;
+
+                  await fetch(process.env.DISCORD_WEBHOOK_URL, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ content: message }),
+                  });
+
+                  lastReleases[repo] = latestTag;
+                }
+              } catch (err) {
+                console.log(`Gagal cek release ${repo}:`, err.message);
+              }
+            }
+
+            fs.mkdirSync('.github/cache', { recursive: true });
+            fs.writeFileSync(filePath, JSON.stringify(lastReleases, null, 2));
+
+            console.log('Update last releases:', JSON.stringify(lastReleases));
