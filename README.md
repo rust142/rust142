@@ -17,7 +17,7 @@
 🧍🏻‍♂️ **Age:** 23 \
 🌟 **Work Experience:** 4 Years (learn since 2018) \
 🎓 **Education:** Bachelor's in Computer Science \
-🎮 **Hobbies:** Gaming, Coding, Reading \
+🎮 **Hobbies:** Coding, Reading \
 🌐 **Languages:** Indonesian, Javanese, English
 
 ## Tools & Programming Languages
