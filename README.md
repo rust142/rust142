@@ -38,10 +38,10 @@ These programming languages are the ones I use:
 And these tools help me:
 
 - VS Code as text editors
-- Windows 11 as the operating system
+- MacOS & Ubuntu as the operating system
 - GitHub, Gitlab for hosting code
 - Vercel, Netlify for hosting apps
-- Notepad for taking notes
+- Keep for taking notes
 - Trello for agile scrum
 - Xmind for mindmap
 - Draw.io form diagram
