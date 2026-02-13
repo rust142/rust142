@@ -14,8 +14,8 @@
 
 👨🏻‍💼 **Name:** Agung Maulana Malik \
 🏠 **Location:** Jepara, Indonesia \
-🧍🏻‍♂️ **Age:** 23 \
-🌟 **Work Experience:** 4 Years (learn since 2018) \
+🧍🏻‍♂️ **Age:** 24 \
+🌟 **Work Experience:** 6 Years (learn since 2018) \
 🎓 **Education:** Bachelor's in Computer Science \
 🎮 **Hobbies:** Coding, Reading \
 🌐 **Languages:** Indonesian, Javanese, English
