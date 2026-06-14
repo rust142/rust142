@@ -6,8 +6,7 @@
 <p align="center">
   <a href="https://s.id/standwithpalestine"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="StandWithPalestine badge"></a>
   <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=rust142.rust142" /></a>
-  <a href="https://github.com/rust142"><img src="https://img.shields.io/github/followers/rust142?label=followers&style=social"/></a>
-  <a href="https://user-badge.committers.top/indonesia/rust142"><img src="https://user-badge.committers.top/indonesia/rust142.svg" alt="committers.top badge"></a>
+  <!-- <a href="https://user-badge.committers.top/indonesia/rust142"><img src="https://user-badge.committers.top/indonesia/rust142.svg" alt="committers.top badge"></a> -->
 </p>
 <p align="center">
   <a href="https://roadmap.sh/u/rust142"><img src="https://img.shields.io/badge/Roadmap-000000?style=flat&logo=roadmap.sh&logoColor=white"/></a>
