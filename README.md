@@ -15,12 +15,10 @@
   <a href="#"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/></a>
 </p>
 <p align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=56282560" target="_blank" style="display: block" align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=56282560&image_size=auto&color_scheme=dark" width="771" height="auto">
-      <img alt="Dashboard stats of @rust142" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=56282560&image_size=auto&color_scheme=light" width="771" height="auto">
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=56282560&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @rust142" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=56282560&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
 </p>
 <p align="center">
   <a href="https://gitlab.com/rust142" target="_blank" style="display: block" align="center">
