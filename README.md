@@ -22,3 +22,8 @@
     </picture>
   </a>
 </p>
+<p align="center">
+  <a href="https://gitlab.com/rust142" target="_blank" style="display: block" align="center">
+    <img alt="Dashboard stats of @rust142" src="https://gitblend.com/api/contributions?username=rust142&theme=gitlab&labels=true" width="771" height="auto">
+  </a>
+</p>
